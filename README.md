@@ -12,7 +12,7 @@
 
 ### 💻 Sobre Mim
 
-Sou Técnico em Informática e Desenvolvedor Full-Stack apaixonado por criar soluções completas, atuando desde a modelagem de banco de dados e APIs robustas até o design de interfaces dinâmicas e responsivas.
+Sou um Desenvolvedor Full-Stack com experiência prática na construção de aplicações completas. Atuo de ponta a ponta no ciclo de desenvolvimento, desde a modelagem de bancos de dados e criação de APIs robustas até o design de interfaces dinâmicas e responsivas.
 
 * 🛠️ **Desenvolvimento:** Foco na estruturação da lógica de negócios no back-end com **Java e Spring Boot**, e construção do front-end com **React e Next.js**.
 * ⚙️ **Boas Práticas:** Valorizo código limpo, arquitetura organizada e versionamento semântico. Aplico os padrões de **Conventional Commits** e **GitEmoji** no fluxo com Git para manter o histórico padronizado e a documentação clara.
@@ -25,6 +25,7 @@ Sou Técnico em Informática e Desenvolvedor Full-Stack apaixonado por criar sol
 **Front-end**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,6 +46,14 @@ Sou Técnico em Informática e Desenvolvedor Full-Stack apaixonado por criar sol
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanTeles&theme=tokyonight" alt="Estatísticas Gerais" height="230"/>
+</div>
 
 ---
 
